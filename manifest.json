@@ -3,7 +3,7 @@
   "name": "External Github Links",
   "description": "Makes non GitHub.com links open in a new tab.",
   "version": "1.0",
-  "short_name": "Octobox",
+  "short_name": "ExternalGithubLinks",
   "homepage_url": "http://skeyelab.com",
   "author": "Eric Dahl",
   "icons": {
