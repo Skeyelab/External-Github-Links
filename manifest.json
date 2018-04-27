@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "External Github Links",
+  "description": "Makes non GitHub.com links open in a new tab.",
+  "version": "1.0",
+  "short_name": "Octobox",
+  "homepage_url": "http://skeyelab.com",
+  "author": "Eric Dahl",
+  "icons": {
+    "48": "icons/icon.png",
+    "96": "icons/icon@2x.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://github.com/*"],
+      "js": ["content-scripts/github.js"]
+    }
+  ]
+}
