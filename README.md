@@ -10,7 +10,7 @@ This cross-browser web extension fixes that!
 
 ## Installation
 
-The External Github Links is available for [Google Chrome](https://chrome.google.com/webstore/detail/octobox-web-extension/efhkcafmbonnomnimilnephjgeccffdn) and [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/octobox-web-extension/).
+The External Github Links is available for [Google Chrome].
 
 For other browsers that support web extensions, you can also [download the ZIP file](https://github.com/Skeyelab/External-Github-Links/archive/master.zip) and select it as a new add-on or extension.
 How to do this will differ between the individual browsers.
