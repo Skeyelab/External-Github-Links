@@ -15,6 +15,11 @@ The External Github Links is available for [Google Chrome](https://chrome.google
 For other browsers that support web extensions, you can also [download the ZIP file](https://github.com/Skeyelab/External-Github-Links/archive/master.zip) and select it as a new add-on or extension.
 How to do this will differ between the individual browsers.
 
+## Test URLs
+
+[Internal, should stay in this tab](https://github.com/Skeyelab)
+[External, should open a new tab](http://skeyelab.com)
+
 ## License
 
 Copyright (c) 2018 Eric Dahl
